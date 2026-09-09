@@ -1,6 +1,6 @@
 # Deploy and Host LibreWolf (Cloud Browser) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/librewolf?utm_medium=integration&utm_source=button&utm_campaign=librewolf)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/librewolf-browser?utm_medium=integration&utm_source=button&utm_campaign=librewolf-browser)
 
 This template runs a full desktop [LibreWolf](https://librewolf.net/) browser in the cloud, streamed to any device through the [linuxserver.io](https://docs.linuxserver.io/images/docker-librewolf/) Selkies web interface. Open your Railway domain, log in, and you're inside a real browser running on the server — bookmarks, extensions, downloads, and sessions persist between visits.
 
