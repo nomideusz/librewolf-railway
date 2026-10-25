@@ -1,4 +1,4 @@
-FROM linuxserver/librewolf:157.0.1-1-ls194
+FROM linuxserver/librewolf:157.0.1-1-ls195
 
 # Upstream starts Xvfb with a 15360x8640 screen, which pins ~600 MB for the
 # framebuffer alone and OOM-kills the desktop on Railway's 512 MB Trial plan.
